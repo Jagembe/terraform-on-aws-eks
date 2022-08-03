@@ -41,4 +41,4 @@ resource "aws_eks_node_group" "eks_ng_private" {
     Name = "Private-Node-Group"
   }
 }
-*/
+*/ # Commenting out entire code here for Steps 19 onward
